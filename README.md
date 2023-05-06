@@ -9,7 +9,7 @@ You can modify the color and background color of the text, for example:
 <p><font color="blue">text</font></p>
 ```
 
-The`<font>`tag is the label that changes the text, of course, you can add the decimal 16 color code after `color=`.
+The `<font>`tag is the label that changes the text, of course, you can add the decimal 16 color code after `color=`.
 
 Of course, you need to add the `background-color` to the text, that is, the background-color property, you can use CSS:
 
